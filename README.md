@@ -1,4 +1,4 @@
-# APP LOCADORA DE CARROS - API - JWT AUTH - FRONTEND VUE
+# APP PORTAL DE NOTICIAS - REDIS
 > Aplicação udemy - https://www.udemy.com/share/103PLq3@ThFUAnfXcSf4Cg1b6iBPnN2MF6ax7Jjf2LT7iabZQc-i60S8x1cHuoHymdtRB__0/
 
 ## Technologies Used
@@ -18,7 +18,7 @@
 - Go to link localhost:8000
 
 ## Project Status
-Project is: on going
+Project is: Finished
 
 
 ## Acknowledgements
